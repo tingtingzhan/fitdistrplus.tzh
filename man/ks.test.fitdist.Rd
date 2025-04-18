@@ -20,10 +20,9 @@ the estimate from the \link[fitdistrplus]{fitdist} object}
 \link[stats]{ks.test} on \link[fitdistrplus]{fitdist}
 }
 \examples{
-library(fitdistrplus)
 data(groundbeef, package = 'fitdistrplus')
 groundbeef$serving |> 
- fitdist(distr = 'gamma') |>
+ fitdistrplus::fitdist(distr = 'gamma') |>
  ks.test() |> 
  suppressWarnings()
 }

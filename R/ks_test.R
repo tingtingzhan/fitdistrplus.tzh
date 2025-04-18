@@ -12,10 +12,9 @@
 #' the estimate from the \link[fitdistrplus]{fitdist} object
 #' 
 #' @examples
-#' library(fitdistrplus)
 #' data(groundbeef, package = 'fitdistrplus')
 #' groundbeef$serving |> 
-#'  fitdist(distr = 'gamma') |>
+#'  fitdistrplus::fitdist(distr = 'gamma') |>
 #'  ks.test() |> 
 #'  suppressWarnings()
 #' @method ks.test fitdist
