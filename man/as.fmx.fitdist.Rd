@@ -12,7 +12,7 @@
 \item{...}{..}
 }
 \value{
-Function \code{\link[=as.fmx.fitdist]{as.fmx.fitdist()}} returns an \linkS4class{fmx} object.
+Function \code{\link[=as.fmx.fitdist]{as.fmx.fitdist()}} returns an object of \link[fmx]{fmx-class}.
 }
 \description{
 To convert \link[fitdistrplus]{fitdist} objects (from package \CRANpkg{fitdistrplus})

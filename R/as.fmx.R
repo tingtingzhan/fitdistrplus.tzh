@@ -11,7 +11,7 @@
 #' @param ... ..
 #' 
 #' @returns 
-#' Function [as.fmx.fitdist()] returns an \linkS4class{fmx} object.
+#' Function [as.fmx.fitdist()] returns an object of \link[fmx]{fmx-class}.
 #' 
 #' @examples
 #' library(fmx)
