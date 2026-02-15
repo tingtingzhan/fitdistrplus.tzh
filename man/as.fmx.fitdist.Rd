@@ -2,7 +2,7 @@
 % Please edit documentation in R/as.fmx.R
 \name{as.fmx.fitdist}
 \alias{as.fmx.fitdist}
-\title{Convert \link[fitdistrplus]{fitdist} Objects to \linkS4class{fmx} Class}
+\title{Convert \link[fitdistrplus]{fitdist} Objects to \link[fmx]{fmx-class}}
 \usage{
 \method{as.fmx}{fitdist}(x, ...)
 }

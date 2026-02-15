@@ -1,6 +1,6 @@
 
 
-#' @title Convert \link[fitdistrplus]{fitdist} Objects to \linkS4class{fmx} Class
+#' @title Convert \link[fitdistrplus]{fitdist} Objects to \link[fmx]{fmx-class}
 #' 
 #' @description 
 #' To convert \link[fitdistrplus]{fitdist} objects (from package \CRANpkg{fitdistrplus}) 
