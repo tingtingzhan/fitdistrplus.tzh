@@ -2,7 +2,6 @@ Package: fitdistrplus.tzh
 Type: Package
 Title: fitdistrplus.tzh
 Version: 0.1.0
-Date: 2024-09-10
 Description: Need to think more..
 Authors@R: c(person(given = 'Tingting', family = 'Zhan',
       role = c('aut', 'cre'), email =
@@ -10,11 +9,9 @@ Authors@R: c(person(given = 'Tingting', family = 'Zhan',
       '0000-0001-9971-4844')))
 Language: en-US
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 Encoding: UTF-8
 License: GPL-2
-Depends: R (>= 4.4)
+Depends: R (>= 4.5)
 Imports: methods, fmx
-Suggests: fitdistrplus (== 1.2.2)
-
-
+Suggests: fitdistrplus (== 1.2.6)
