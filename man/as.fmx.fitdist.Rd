@@ -16,7 +16,7 @@ Function \code{\link[=as.fmx.fitdist]{as.fmx.fitdist()}} returns an \linkS4class
 }
 \description{
 To convert \link[fitdistrplus]{fitdist} objects (from package \CRANpkg{fitdistrplus})
-to \linkS4class{fmx} class.
+to \link[fmx]{fmx-class}.
 }
 \examples{
 library(fmx)

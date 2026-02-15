@@ -4,7 +4,7 @@
 #' 
 #' @description 
 #' To convert \link[fitdistrplus]{fitdist} objects (from package \CRANpkg{fitdistrplus}) 
-#' to \linkS4class{fmx} class.
+#' to \link[fmx]{fmx-class}.
 #' 
 #' @param x \link[fitdistrplus]{fitdist} object
 #' 
